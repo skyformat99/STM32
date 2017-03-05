@@ -1,21 +1,23 @@
 /****************************************************************************
-* Copyright (C), 2013 ·Ü¶·Ç¶ÈëÊ½¹¤×÷ÊÒ www.ourstm.net
+* Copyright (C), 2013 å¥‹æ–—åµŒå…¥å¼å·¥ä½œå®¤ www.ourstm.net
 *
-* ±¾Àý³ÌÔÚ ·Ü¶·°æSTM32¿ª·¢°åV2,2.1,V3,V5,MINIÉÏµ÷ÊÔÍ¨¹ý           
-* QQ: 9191274, ÍúÍú£ºsun68, Email: sun68@163.com 
-* ÌÔ±¦µêÆÌ£ºourstm.taobao.com  
+* æœ¬ä¾‹ç¨‹åœ¨ å¥‹æ–—ç‰ˆSTM32å¼€å‘æ¿V2,2.1,V3,V5,MINIä¸Šè°ƒè¯•é€šè¿‡           
+* QQ: 9191274, æ—ºæ—ºï¼šsun68, Email: sun68@163.com 
+* æ·˜å®åº—é“ºï¼šourstm.taobao.com  
 *
-* ÎÄ¼þÃû: main.c
-* ÄÚÈÝ¼òÊö:
-*       ÑÝÊ¾ USART2 µ±½ÓÊÕµ½½áÊø·ûÊÇ0x0d 0x0aÊ±£¬½«½ÓÊÕµ½µÄÊý¾Ý´«ËÍ³öÈ¥
-                       V6£¨V3 V5°å£© V2£¨MINI°å£© LED1ÉÁË¸±íÊ¾ÕýÔÚÊÕ·¢Êý¾Ý¡£ 
+* æ–‡ä»¶å: main.c
+* å†…å®¹ç®€è¿°:
+* Â  Â  Â  Â freemobusç§»æ¤
+ Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â 
 *
-¶¨Òå£º	
+å®šä¹‰ï¼š	
 	TXD2----- PA2-US2-TX
 	RXD2----- PA3-US2-RX
-	ËÙÂÊ£º115200,n,8,1 
-* ÎÄ¼þÀúÊ·:
-* °æ±¾ºÅ  ÈÕÆÚ       ×÷Õß    ËµÃ÷
-* v0.2    2011-7-21 sun68  ´´½¨¸ÃÎÄ¼þ
+		
+ä½¿èƒ½è„š PD12
+é€ŸçŽ‡ï¼š115200,n,8,1 
+* æ–‡ä»¶åŽ†å²:
+* ç‰ˆæœ¬å·  æ—¥æœŸ       ä½œè€…    è¯´æ˜Ž
+* v1.00.1.00    2017-3-6 yanggang  åˆ›å»ºè¯¥æ–‡ä»¶
 *
 */
