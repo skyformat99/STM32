@@ -1,9 +1,9 @@
 /****************************************************************************
-* Copyright (C), 2013 奋斗嵌入式工作室 www.ourstm.net
+* Copyright (C), 2013 杨刚嵌入式工作室 
 *
 * 本例程在 奋斗版STM32开发板V2,2.1,V3,V5,MINI上调试通过           
-* QQ: 9191274, 旺旺：sun68, Email: sun68@163.com 
-* 淘宝店铺：ourstm.taobao.com  
+* QQ: 971947289,   Email: yanggang900317@gmail.com
+* 
 *
 * 文件名: main.c
 * 内容简述:
