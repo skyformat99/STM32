@@ -1,0 +1,70 @@
+Dependencies for Project 'STM32-FD-USART1DEMO', Target 'STM32-USART1': (DO NOT MODIFY !)
+F (.\user\stm32f10x_it.c)(0x4E5C3406)(-c --cpu Cortex-M3 -g -O3 --apcs=interwork --split_sections -I .\FWlib\inc -I .\user -I .\CM3-ID:\资料整理\3————STM32项目程序开发\STM32项目开发\奋斗STM32开发板V5+5寸(SSD1963)屏例程\奋斗STM32开发板V5+5寸(SSD1963)屏例程\适用V5板的基础例程\STM32奋斗板-串口2DEMO\RTE-IC:\Keil_v5-2016-9-8\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include-IC:\Keil_v5-2016-9-8\ARM\CMSIS\Include-D__UVISION_VERSION="521" -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_HD -DUSE_STM3210B_EVAL-o .\obj\stm32f10x_it.o --omf_browse .\obj\stm32f10x_it.crf --depend .\obj\stm32f10x_it.d)
+I (user\stm32f10x_it.h)(0x49D96952)
+I (.\CM3\stm32f10x.h)(0x4E0D24AA)
+I (.\CM3\core_cm3.h)(0x4D523B58)
+I (C:\Keil_v5-2016-9-8\ARM\ARMCC\include\stdint.h)(0x574E3E26)
+I (.\CM3\system_stm32f10x.h)(0x4D783CAA)
+I (.\FWlib\inc\stm32f10x_conf.h)(0x49D96952)
+I (.\FWlib\inc\stm32f10x_gpio.h)(0x4D783BB4)
+I (.\FWlib\inc\stm32f10x_rcc.h)(0x4D783BB4)
+I (.\FWlib\inc\stm32f10x_usart.h)(0x4D783BB4)
+F (.\user\main.c)(0x58BC3589)(-c --cpu Cortex-M3 -g -O3 --apcs=interwork --split_sections -I .\FWlib\inc -I .\user -I .\CM3-ID:\资料整理\3————STM32项目程序开发\STM32项目开发\奋斗STM32开发板V5+5寸(SSD1963)屏例程\奋斗STM32开发板V5+5寸(SSD1963)屏例程\适用V5板的基础例程\STM32奋斗板-串口2DEMO\RTE-IC:\Keil_v5-2016-9-8\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include-IC:\Keil_v5-2016-9-8\ARM\CMSIS\Include-D__UVISION_VERSION="521" -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_HD -DUSE_STM3210B_EVAL-o .\obj\main.o --omf_browse .\obj\main.crf --depend .\obj\main.d)
+I (.\CM3\stm32f10x.h)(0x4E0D24AA)
+I (.\CM3\core_cm3.h)(0x4D523B58)
+I (C:\Keil_v5-2016-9-8\ARM\ARMCC\include\stdint.h)(0x574E3E26)
+I (.\CM3\system_stm32f10x.h)(0x4D783CAA)
+I (.\FWlib\inc\stm32f10x_conf.h)(0x49D96952)
+I (.\FWlib\inc\stm32f10x_gpio.h)(0x4D783BB4)
+I (.\FWlib\inc\stm32f10x_rcc.h)(0x4D783BB4)
+I (user\platform_config.h)(0x4E5C3384)
+I (.\FWlib\inc\stm32f10x_usart.h)(0x4D783BB4)
+I (.\FWlib\inc\misc.h)(0x4D783BB4)
+I (C:\Keil_v5-2016-9-8\ARM\ARMCC\include\stdarg.h)(0x574E3E26)
+F (.\FWlib\SRC\misc.c)(0x4D783BB4)(-c --cpu Cortex-M3 -g -O3 --apcs=interwork --split_sections -I .\FWlib\inc -I .\user -I .\CM3-ID:\资料整理\3————STM32项目程序开发\STM32项目开发\奋斗STM32开发板V5+5寸(SSD1963)屏例程\奋斗STM32开发板V5+5寸(SSD1963)屏例程\适用V5板的基础例程\STM32奋斗板-串口2DEMO\RTE-IC:\Keil_v5-2016-9-8\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include-IC:\Keil_v5-2016-9-8\ARM\CMSIS\Include-D__UVISION_VERSION="521" -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_HD -DUSE_STM3210B_EVAL-o .\obj\misc.o --omf_browse .\obj\misc.crf --depend .\obj\misc.d)
+I (.\FWlib\inc\misc.h)(0x4D783BB4)
+I (.\CM3\stm32f10x.h)(0x4E0D24AA)
+I (.\CM3\core_cm3.h)(0x4D523B58)
+I (C:\Keil_v5-2016-9-8\ARM\ARMCC\include\stdint.h)(0x574E3E26)
+I (.\CM3\system_stm32f10x.h)(0x4D783CAA)
+I (.\FWlib\inc\stm32f10x_conf.h)(0x49D96952)
+I (.\FWlib\inc\stm32f10x_gpio.h)(0x4D783BB4)
+I (.\FWlib\inc\stm32f10x_rcc.h)(0x4D783BB4)
+F (.\FWlib\SRC\stm32f10x_gpio.c)(0x4D79EEC6)(-c --cpu Cortex-M3 -g -O3 --apcs=interwork --split_sections -I .\FWlib\inc -I .\user -I .\CM3-ID:\资料整理\3————STM32项目程序开发\STM32项目开发\奋斗STM32开发板V5+5寸(SSD1963)屏例程\奋斗STM32开发板V5+5寸(SSD1963)屏例程\适用V5板的基础例程\STM32奋斗板-串口2DEMO\RTE-IC:\Keil_v5-2016-9-8\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include-IC:\Keil_v5-2016-9-8\ARM\CMSIS\Include-D__UVISION_VERSION="521" -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_HD -DUSE_STM3210B_EVAL-o .\obj\stm32f10x_gpio.o --omf_browse .\obj\stm32f10x_gpio.crf --depend .\obj\stm32f10x_gpio.d)
+I (.\FWlib\inc\stm32f10x_gpio.h)(0x4D783BB4)
+I (.\CM3\stm32f10x.h)(0x4E0D24AA)
+I (.\CM3\core_cm3.h)(0x4D523B58)
+I (C:\Keil_v5-2016-9-8\ARM\ARMCC\include\stdint.h)(0x574E3E26)
+I (.\CM3\system_stm32f10x.h)(0x4D783CAA)
+I (.\FWlib\inc\stm32f10x_conf.h)(0x49D96952)
+I (.\FWlib\inc\stm32f10x_rcc.h)(0x4D783BB4)
+F (.\FWlib\SRC\stm32f10x_rcc.c)(0x4D783BB4)(-c --cpu Cortex-M3 -g -O3 --apcs=interwork --split_sections -I .\FWlib\inc -I .\user -I .\CM3-ID:\资料整理\3————STM32项目程序开发\STM32项目开发\奋斗STM32开发板V5+5寸(SSD1963)屏例程\奋斗STM32开发板V5+5寸(SSD1963)屏例程\适用V5板的基础例程\STM32奋斗板-串口2DEMO\RTE-IC:\Keil_v5-2016-9-8\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include-IC:\Keil_v5-2016-9-8\ARM\CMSIS\Include-D__UVISION_VERSION="521" -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_HD -DUSE_STM3210B_EVAL-o .\obj\stm32f10x_rcc.o --omf_browse .\obj\stm32f10x_rcc.crf --depend .\obj\stm32f10x_rcc.d)
+I (.\FWlib\inc\stm32f10x_rcc.h)(0x4D783BB4)
+I (.\CM3\stm32f10x.h)(0x4E0D24AA)
+I (.\CM3\core_cm3.h)(0x4D523B58)
+I (C:\Keil_v5-2016-9-8\ARM\ARMCC\include\stdint.h)(0x574E3E26)
+I (.\CM3\system_stm32f10x.h)(0x4D783CAA)
+I (.\FWlib\inc\stm32f10x_conf.h)(0x49D96952)
+I (.\FWlib\inc\stm32f10x_gpio.h)(0x4D783BB4)
+F (.\FWlib\SRC\stm32f10x_usart.c)(0x4EEFF8F5)(-c --cpu Cortex-M3 -g -O3 --apcs=interwork --split_sections -I .\FWlib\inc -I .\user -I .\CM3-ID:\资料整理\3————STM32项目程序开发\STM32项目开发\奋斗STM32开发板V5+5寸(SSD1963)屏例程\奋斗STM32开发板V5+5寸(SSD1963)屏例程\适用V5板的基础例程\STM32奋斗板-串口2DEMO\RTE-IC:\Keil_v5-2016-9-8\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include-IC:\Keil_v5-2016-9-8\ARM\CMSIS\Include-D__UVISION_VERSION="521" -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_HD -DUSE_STM3210B_EVAL-o .\obj\stm32f10x_usart.o --omf_browse .\obj\stm32f10x_usart.crf --depend .\obj\stm32f10x_usart.d)
+I (.\FWlib\inc\stm32f10x_usart.h)(0x4D783BB4)
+I (.\CM3\stm32f10x.h)(0x4E0D24AA)
+I (.\CM3\core_cm3.h)(0x4D523B58)
+I (C:\Keil_v5-2016-9-8\ARM\ARMCC\include\stdint.h)(0x574E3E26)
+I (.\CM3\system_stm32f10x.h)(0x4D783CAA)
+I (.\FWlib\inc\stm32f10x_conf.h)(0x49D96952)
+I (.\FWlib\inc\stm32f10x_gpio.h)(0x4D783BB4)
+I (.\FWlib\inc\stm32f10x_rcc.h)(0x4D783BB4)
+F (.\startup\startup_stm32f10x_hd.s)(0x4D783CDE)(--cpu Cortex-M3 -g --apcs=interwork -ID:\资料整理\3————STM32项目程序开发\STM32项目开发\奋斗STM32开发板V5+5寸(SSD1963)屏例程\奋斗STM32开发板V5+5寸(SSD1963)屏例程\适用V5板的基础例程\STM32奋斗板-串口2DEMO\RTE-IC:\Keil_v5-2016-9-8\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include-IC:\Keil_v5-2016-9-8\ARM\CMSIS\Include--pd "__UVISION_VERSION SETA 521" --pd "STM32F10X_HD SETA 1"--list .\list\startup_stm32f10x_hd.lst --xref -o .\obj\startup_stm32f10x_hd.o --depend .\obj\startup_stm32f10x_hd.d)
+F (.\CM3\core_cm3.c)(0x4C0C587E)(-c --cpu Cortex-M3 -g -O3 --apcs=interwork --split_sections -I .\FWlib\inc -I .\user -I .\CM3-ID:\资料整理\3————STM32项目程序开发\STM32项目开发\奋斗STM32开发板V5+5寸(SSD1963)屏例程\奋斗STM32开发板V5+5寸(SSD1963)屏例程\适用V5板的基础例程\STM32奋斗板-串口2DEMO\RTE-IC:\Keil_v5-2016-9-8\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include-IC:\Keil_v5-2016-9-8\ARM\CMSIS\Include-D__UVISION_VERSION="521" -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_HD -DUSE_STM3210B_EVAL-o .\obj\core_cm3.o --omf_browse .\obj\core_cm3.crf --depend .\obj\core_cm3.d)
+I (C:\Keil_v5-2016-9-8\ARM\ARMCC\include\stdint.h)(0x574E3E26)
+F (.\CM3\system_stm32f10x.c)(0x4D783CB0)(-c --cpu Cortex-M3 -g -O3 --apcs=interwork --split_sections -I .\FWlib\inc -I .\user -I .\CM3-ID:\资料整理\3————STM32项目程序开发\STM32项目开发\奋斗STM32开发板V5+5寸(SSD1963)屏例程\奋斗STM32开发板V5+5寸(SSD1963)屏例程\适用V5板的基础例程\STM32奋斗板-串口2DEMO\RTE-IC:\Keil_v5-2016-9-8\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include-IC:\Keil_v5-2016-9-8\ARM\CMSIS\Include-D__UVISION_VERSION="521" -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_HD -DUSE_STM3210B_EVAL-o .\obj\system_stm32f10x.o --omf_browse .\obj\system_stm32f10x.crf --depend .\obj\system_stm32f10x.d)
+I (CM3\stm32f10x.h)(0x4E0D24AA)
+I (CM3\core_cm3.h)(0x4D523B58)
+I (C:\Keil_v5-2016-9-8\ARM\ARMCC\include\stdint.h)(0x574E3E26)
+I (CM3\system_stm32f10x.h)(0x4D783CAA)
+I (.\FWlib\inc\stm32f10x_conf.h)(0x49D96952)
+I (.\FWlib\inc\stm32f10x_gpio.h)(0x4D783BB4)
+I (.\CM3\stm32f10x.h)(0x4E0D24AA)
+I (.\FWlib\inc\stm32f10x_rcc.h)(0x4D783BB4)
+F (.\readme.txt)(0x5149D777)()
